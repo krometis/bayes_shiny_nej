@@ -1,2 +1,2 @@
-# bayes_shiny_nej
-R Shiny app for Bayesian approach to integrated testing
+# R Shiny app for Bayesian approach to integrated testing
+This repository contains the R Shiny app for Bayesian approach to integrated testing described in the Naval Engineers Journal article "Using Data and Analytics to Build Confidence in Systems Operational Performance in the Face of Limited Resources" by Kyle Risher, Daniel Wolodkin, Justin Krometis, Victoria Sieck, Laura Freeman, Jeremy Werner, and Sandra Hobson.
